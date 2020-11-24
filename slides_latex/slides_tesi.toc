@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Le definizioni}{2}{0}{1}
+\beamer@sectionintoc {2}{Il campione}{4}{0}{2}
+\beamer@sectionintoc {3}{Campagne negative e odio online}{10}{0}{3}
+\beamer@sectionintoc {4}{Il target della campagna}{12}{0}{4}
+\beamer@sectionintoc {5}{Campagne negative e la letteratura}{14}{0}{5}
