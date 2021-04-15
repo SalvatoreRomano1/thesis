@@ -60,7 +60,7 @@ def write_toc(nb_name, headers):
         return f"{indent}- [{name}]({anchor})"
 
     toc = TOC_COMMENT
-    toc += 'Contents:\n'
+    toc += 'Contents (added with add_toc.py):\n'
     toc += '\n'.join([format(h) for h in headers])
 
     first_cell = nb.cells[0]
